@@ -1,0 +1,57 @@
+BODY{
+    background-color:#f2e9a5;
+    justify-content: center;
+    margin-left: 50px;
+}
+.head{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.list{
+    padding: 30PX;
+    width: 50%;
+    margin-left:55% ;
+    border: 2px solid black;
+    text-align: center;
+    display: none;
+    
+}
+#db{
+    border-radius: 1rem;
+    color: rgb(148, 67, 67);
+
+}
+li{
+    font-size: large;
+}
+.style{
+padding: 10PX;
+width: 20%;
+margin: auto;
+justify-content: center;
+align-items: center;
+border: 3px solid #3c345c;
+text-align: center;
+
+background-color: #1b4769;}
+
+
+button{
+    margin: 5px;
+    border-radius:5PX;
+}
+LI{
+    margin: 20PX;
+}
+.B{
+    margin: 5px;
+    border-radius:5PX;
+}
+UL{
+    text-align: justify;
+}
+.db{
+    color:rgb(43, 8, 8)
+    
+}
