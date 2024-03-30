@@ -46,7 +46,7 @@ btn.addEventListener('click',function(){
     li.innerText=inp.value;
     console.log(`${inp.value} is Added`);
     li.appendChild(del);
-    del.innerText='DELETE';
+    del.innerText='Completed';
     ul.append(li);
     li.style.color='#f7fff7';
 
